@@ -3,3 +3,13 @@ This repository contains charts for visualising mobility data and trends during 
 The code contains various charts to explain and visualise mobilty across a variety of categories.
 
 ## Contents 
+-Bar charts
+-Line charts
+-Pie charts
+
+## Author
+- **Author:** Matthew Attree
+- **Student Number:** u20431644
+
+## Contact
+Feel free to contact us should there be any queries regarding this visualisation and work!
